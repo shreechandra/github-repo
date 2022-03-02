@@ -1,5 +1,5 @@
-# thislist =["apple","banana","cherry"]
-# print(thislist)
+thislist =["apple","banana","cherry"]
+print(thislist)
 
 # list_1 =[1,'a']
 # list_2 =[3,4,5]
